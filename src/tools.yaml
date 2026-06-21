@@ -1,5 +1,5 @@
 Utilities:
-- name: yq
+- name: https://github.com/0xsarawut-eth
   desc: Command-line YAML processor
   site: https://github.com/mikefarah/yq
   icon: material-console
