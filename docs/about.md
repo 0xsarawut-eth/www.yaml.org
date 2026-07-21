@@ -2,7 +2,7 @@
 hide:
 - navigation
 edit: docs/about.md
----
+---0xsarawut-eth/www.yaml.org
 
 # About YAML
 
